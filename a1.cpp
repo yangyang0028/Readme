@@ -18,7 +18,11 @@ int main(){
     else l=mid+1;
   }
   cout<<"! "<<l<<endl;
-  return 0;
+ 
+
+ return 0;
 }
 
-
+/*
+sssss
+*/
